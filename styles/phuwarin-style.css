@@ -1,0 +1,28 @@
+p {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+h3, ul {
+    color: rgb(255, 255, 255);
+}
+h1, h2 {
+    margin: 0;
+    padding: auto;
+    color: rgb(255, 0, 93);
+    text-align: center;
+    text-shadow: 1px 1px 2px rgb(0, 255, 238);
+} 
+img {
+    display: block;
+    margin: 0 auto;
+}
+div {
+    height: 600px;
+    width: 900px;
+    margin: 0 auto;
+    border: 5px solid rgb(4, 70, 111);
+    background-color: rgb(51, 164, 158);
+}
+html{
+    background-color: coral;
+}
