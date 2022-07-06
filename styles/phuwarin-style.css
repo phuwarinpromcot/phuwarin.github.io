@@ -17,7 +17,7 @@ img {
     margin: 0 auto;
 }
 div {
-    height: 600px;
+    height: 900px;
     width: 900px;
     margin: 0 auto;
     border: 5px solid rgb(4, 70, 111);
@@ -25,4 +25,14 @@ div {
 }
 html{
     background-color: coral;
+}
+.dotFrame{
+    border: 5px dotted red;
+}
+#headLine{
+    background-color:blue;
+    font-size: 18px;
+    padding: auto;
+    border: 4px darkgoldenrod;
+    border-radius: 4px;
 }
