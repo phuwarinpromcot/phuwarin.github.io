@@ -1,4 +1,3 @@
-@media only screen and (min-device-width: 1080px) {
     p {
         color: rgb(255, 255, 255);
         text-align: center;
@@ -43,7 +42,6 @@
         padding: auto;
         border: 4px darkgoldenrod;
         border-radius: 4px;
-    }
     }
     @media only screen and (min-device-width: 375px){
         img {
