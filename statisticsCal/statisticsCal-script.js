@@ -6,7 +6,7 @@ let list = readInput();
 
 function readInput() {
     do {
-        input_data = prompt("Enter a positive integer");
+        input_data = prompt("Enter an integer (a negative to quit) : ");
         number_data = Number(input_data);
         if (typeof number_data == 'number' && !isNaN(number_data)) {
             if (number_data  > 0) { //เก็บข้อมูลเลขบวก
